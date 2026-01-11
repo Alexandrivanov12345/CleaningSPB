@@ -1,0 +1,66 @@
+body{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+}
+
+.HrMain{
+    border: none;
+    height: 2px;
+    background-color: #2edfe252; /* Цвет линии */
+    margin: 0;
+    opacity: 1;
+}
+.MainHighlight{
+    margin-bottom: 50px;
+}
+.CardImage{
+    height: 200px;
+    object-fit: cover;
+}
+.CardImage2{
+    height: 200px;
+    object-fit: scale-down;
+}
+.exo-100 {
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+.exo-300{
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.exo-500{
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.exo-700{
+    color: rgb(34, 97, 157);
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.exo-900{
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+.nav-link{
+  color: black;
+  text-decoration: underline dotted
+}
+.navbar{
+  height: 5%;
+}
+.MainImage{
+  object-fit: contain;
+}
